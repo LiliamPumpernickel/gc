@@ -1,5 +1,7 @@
 # Proof of Concept Garbage Collector
 
+cloned from https://bitbucket.org/imantasp/poc-gc/src
+
 Sample C/C++ Garbage Collector
 
 This is super simple project is aimed to teach students how to build garbage collector from scratch with a lot of limitations in mind.
